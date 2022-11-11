@@ -4,7 +4,7 @@ Refractor e-commerce platform from using global state React's Contect API to Red
 
 ### Github <https://github.com/micha2791/Redux-Sotore>
 
-### Website
+### Website <https://redux-store2.herokuapp.com/>
 
 ## Description
 
